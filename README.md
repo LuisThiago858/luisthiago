@@ -8,3 +8,4 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/LuisThiago858/luisthiago/output/dist/snake.svg" alt="Snake animation" />
 </div>
+
