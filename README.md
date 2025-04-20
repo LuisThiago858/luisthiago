@@ -12,7 +12,7 @@
 - 🐍 Pythonista raiz  
 - 🧠 Sempre aprendendo algo novo  
 - 💼 Buscando contribuir com projetos que causem impacto real  
-- 📫 Entre em contato: **[email@email.com](mailto:email@email.com)**
+- 📫 Entre em contato: **[luisrabello.lstr@gmail.com](mailto:luisrabello.lstr@gmail.com)**
 
 ---
 
